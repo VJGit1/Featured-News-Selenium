@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T06:49:55Z" name="Suite" finished-at="2023-04-18T06:53:18Z" duration-ms="203382">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T06:49:55Z" name="Test" finished-at="2023-04-18T06:53:18Z" duration-ms="203382">
+      <class name="com.beCognizant.TestSuites.TestCases">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:49:55Z" name="invokeBrowser" finished-at="2023-04-18T06:50:46Z" duration-ms="51241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="login()[pri:1, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:50:46Z" name="login" finished-at="2023-04-18T06:51:39Z" duration-ms="53325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="confirmBecognizant()[pri:2, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:51:39Z" name="confirmBecognizant" finished-at="2023-04-18T06:51:43Z" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmBecognizant -->
+        <test-method signature="displayUserName()[pri:3, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:51:43Z" name="displayUserName" finished-at="2023-04-18T06:51:46Z" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayUserName -->
+        <test-method signature="scrollToFeatured()[pri:4, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:51:46Z" name="scrollToFeatured" finished-at="2023-04-18T06:51:48Z" duration-ms="2217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToFeatured -->
+        <test-method signature="featuredTitleCheck()[pri:5, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:51:48Z" name="featuredTitleCheck" finished-at="2023-04-18T06:51:53Z" duration-ms="5111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featuredTitleCheck -->
+        <test-method signature="countNews()[pri:6, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:51:53Z" name="countNews" finished-at="2023-04-18T06:51:53Z" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countNews -->
+        <test-method signature="newsContent()[pri:7, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:51:53Z" name="newsContent" finished-at="2023-04-18T06:53:07Z" duration-ms="73454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsContent -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.beCognizant.TestSuites.TestCases@6c61a903]" started-at="2023-04-18T06:53:07Z" name="closeBrowser" finished-at="2023-04-18T06:53:18Z" duration-ms="11464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.beCognizant.TestSuites.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
